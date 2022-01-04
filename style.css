@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+h1{
+    font-size:50px;
+}
+.name-color{
+    color: rgb(176, 126, 185);
+}
+section{
+    display: flex;
+    
+}
+.half-width{
+    width:50%;
+    padding:1%;
+}
+.half-width img{
+    width:75%;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato) ;
+    color: white;
+    font-weight: 600;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
